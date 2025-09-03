@@ -1,57 +1,57 @@
 category,task,completed
-Python Basics,CLI Utility → Build a small CLI that reads/writes files,False
-Python Basics,Refactor Script → Turn a script into reusable functions & modules,False
-Python Basics,OOP Mini-App → Create a class-based Todo manager with save/load,False
-Pandas,Sales Report → Analyze total sales by product & region,False
-Pandas,Customer Segments → Group customers by behavior & spend,False
-Pandas,Cleaning Notebook → Fix nulls/dupes and export a clean CSV,False
-NumPy,Crypto Correlation → Compare BTC/ETH correlations & moving averages,False
-NumPy,Matrix Ops → Implement vectorized matrix multiplications,False
-NumPy,Random Experiments → Simulate coin flips/dice & analyze,False
-Matplotlib,Stock Trends → Plot price trend with annotations & peaks,False
-Matplotlib,Dashboard → Build multi-subplot analytics figure,False
-Matplotlib,Style Guide → Create a custom plotting helper module,False
-Math Foundations,Vector Ops Notebook → Demonstrate dot/cross products & norms,False
-Math Foundations,Stats Sampler → Simulate distributions & visualize histograms,False
-Math Foundations,Gradient Demo → Numerical gradient on simple function,False
-OOP Foundations,Student Manager → Class-based CRUD with CSV persistence,False
-OOP Foundations,Shapes Library → Inheritance for Circle/Rect; compute area/perimeter,False
-OOP Foundations,Logger Wrapper → Context manager with __enter__/__exit__,False
-Portfolio Projects,Portfolio #1 → End-to-end sales/crypto analysis pipeline,False
-Portfolio Projects,Portfolio #2 → Data Cleaning Toolkit with docs & tests,False
-Portfolio Projects,Portfolio #3 → Two storytelling notebooks on Kaggle data,False
-scikit-learn,Titanic Classifier → Predict survival with CV & baseline,False
-scikit-learn,House Prices → Feature engineering + regression models,False
-scikit-learn,Iris Clustering → KMeans + elbow/silhouette analysis,False
-scikit-learn,End-to-end Pipeline → ColumnTransformer + model + export,False
-Feature Engineering,Feature Cookoff → Compare encoders/scalers on 1 dataset,False
-Feature Engineering,Leakage Hunt → Find & fix leakage in a toy dataset,False
-Feature Engineering,Text TF-IDF → Build baseline text classifier,False
-Evaluation & Tuning,Metric Matrix → Benchmark models across metrics,False
-Evaluation & Tuning,Hyperparam Sprint → GridSearchCV vs RandomizedSearchCV,False
-Evaluation & Tuning,Explainability → Use SHAP on tabular model,False
-Project Engineering,Template Repo → Cookiecutter-style project skeleton,False
-Project Engineering,Test Suite → Add pytest + coverage,False
-Project Engineering,Simple API → Serve model via FastAPI,False
-Kaggle Track,Titanic CV → Build reliable CV; avoid overfit to LB,False
-Kaggle Track,House Prices FE → Feature engineering & stacking,False
-Kaggle Track,Report Notebook → Explain approach & errors,False
-PyTorch,MNIST From Scratch → Build full training loop + eval,False
-PyTorch,Augment & Overfit → Show effect of dropout/weight decay,False
-PyTorch,Checkpointing → Save/load to resume training,False
-CNNs,MNIST CNN → Train simple CNN from scratch,False
-CNNs,CIFAR-10 Classifier → Augment + regularize + compare,False
-CNNs,ResNet Transfer → Fine-tune on custom dataset,False
-CNNs,MobileNet vs ResNet → Compare accuracy & latency,False
-RNNs & NLP,IMDB Sentiment → LSTM/GRU baseline with embeddings,False
-RNNs & NLP,Attention Add-on → Add attention and compare scores,False
-RNNs & NLP,Finetune Encoder → Use pretrained embeddings/encoders,False
-Transformers,Mini-Transformer → Train tiny model on toy dataset,False
-Transformers,BERT Finetune → Downstream text classification,False
-Transformers,Efficient Inference → Batching/padding + export,False
-GANs/SSL/RL,DCGAN Faces → Train DCGAN on small image set,False
-GANs/SSL/RL,WGAN-GP Stability → Demonstrate improved training,False
-GANs/SSL/RL,SimCLR Tiny → Contrastive pretraining on CIFAR-10,False
-MLOps,Serve Model → FastAPI endpoint with batching,False
-MLOps,Dockerize → GPU-ready container to deploy API,False
-MLOps,Track & Version → MLflow + DVC for one project,False
+Python Basics,CLI Utility → Build a small CLI that reads/writes files,0
+Python Basics,Refactor Script → Turn a script into reusable functions & modules,0
+Python Basics,OOP Mini-App → Create a class-based Todo manager with save/load,0
+Pandas,Sales Report → Analyze total sales by product & region,0
+Pandas,Customer Segments → Group customers by behavior & spend,0
+Pandas,Cleaning Notebook → Fix nulls/dupes and export a clean CSV,0
+NumPy,Crypto Correlation → Compare BTC/ETH correlations & moving averages,0
+NumPy,Matrix Ops → Implement vectorized matrix multiplications,0
+NumPy,Random Experiments → Simulate coin flips/dice & analyze,0
+Matplotlib,Stock Trends → Plot price trend with annotations & peaks,0
+Matplotlib,Dashboard → Build multi-subplot analytics figure,0
+Matplotlib,Style Guide → Create a custom plotting helper module,0
+Math Foundations,Vector Ops Notebook → Demonstrate dot/cross products & norms,0
+Math Foundations,Stats Sampler → Simulate distributions & visualize histograms,0
+Math Foundations,Gradient Demo → Numerical gradient on simple function,0
+OOP Foundations,Student Manager → Class-based CRUD with CSV persistence,0
+OOP Foundations,Shapes Library → Inheritance for Circle/Rect; compute area/perimeter,0
+OOP Foundations,Logger Wrapper → Context manager with __enter__/__exit__,0
+Portfolio Projects,Portfolio #1 → End-to-end sales/crypto analysis pipeline,0
+Portfolio Projects,Portfolio #2 → Data Cleaning Toolkit with docs & tests,0
+Portfolio Projects,Portfolio #3 → Two storytelling notebooks on Kaggle data,0
+scikit-learn,Titanic Classifier → Predict survival with CV & baseline,0
+scikit-learn,House Prices → Feature engineering + regression models,0
+scikit-learn,Iris Clustering → KMeans + elbow/silhouette analysis,0
+scikit-learn,End-to-end Pipeline → ColumnTransformer + model + export,0
+Feature Engineering,Feature Cookoff → Compare encoders/scalers on 1 dataset,0
+Feature Engineering,Leakage Hunt → Find & fix leakage in a toy dataset,0
+Feature Engineering,Text TF-IDF → Build baseline text classifier,0
+Evaluation & Tuning,Metric Matrix → Benchmark models across metrics,0
+Evaluation & Tuning,Hyperparam Sprint → GridSearchCV vs RandomizedSearchCV,0
+Evaluation & Tuning,Explainability → Use SHAP on tabular model,0
+Project Engineering,Template Repo → Cookiecutter-style project skeleton,0
+Project Engineering,Test Suite → Add pytest + coverage,0
+Project Engineering,Simple API → Serve model via FastAPI,0
+Kaggle Track,Titanic CV → Build reliable CV; avoid overfit to LB,0
+Kaggle Track,House Prices FE → Feature engineering & stacking,0
+Kaggle Track,Report Notebook → Explain approach & errors,0
+PyTorch,MNIST From Scratch → Build full training loop + eval,0
+PyTorch,Augment & Overfit → Show effect of dropout/weight decay,0
+PyTorch,Checkpointing → Save/load to resume training,0
+CNNs,MNIST CNN → Train simple CNN from scratch,0
+CNNs,CIFAR-10 Classifier → Augment + regularize + compare,0
+CNNs,ResNet Transfer → Fine-tune on custom dataset,0
+CNNs,MobileNet vs ResNet → Compare accuracy & latency,0
+RNNs & NLP,IMDB Sentiment → LSTM/GRU baseline with embeddings,0
+RNNs & NLP,Attention Add-on → Add attention and compare scores,0
+RNNs & NLP,Finetune Encoder → Use pretrained embeddings/encoders,0
+Transformers,Mini-Transformer → Train tiny model on toy dataset,0
+Transformers,BERT Finetune → Downstream text classification,0
+Transformers,Efficient Inference → Batching/padding + export,0
+GANs/SSL/RL,DCGAN Faces → Train DCGAN on small image set,0
+GANs/SSL/RL,WGAN-GP Stability → Demonstrate improved training,0
+GANs/SSL/RL,SimCLR Tiny → Contrastive pretraining on CIFAR-10,0
+MLOps,Serve Model → FastAPI endpoint with batching,0
+MLOps,Dockerize → GPU-ready container to deploy API,0
+MLOps,Track & Version → MLflow + DVC for one project,0
